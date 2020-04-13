@@ -1,0 +1,19 @@
+header{
+    position: relative;
+    margin: 0 auto;
+    width: 70%;
+    background-color: aqua;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
+    transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+}
